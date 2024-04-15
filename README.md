@@ -9,7 +9,7 @@
 
 - 💬 Ask me about **React js, Redux toolkit, JS, CSS and HTML**
 
-- 📫 How to reach me **https://www.linkedin.com/in/sandeep-rawat-1a33b6254/**
+- 📫 How to reach me **www.linkedin.com/in/sandeep-rawat-sandlini**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
